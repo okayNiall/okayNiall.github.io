@@ -1,2 +1,2 @@
-# okayNiall.github.io
-Personal Site
+# niallclancy_ie_2022
+My personal website
