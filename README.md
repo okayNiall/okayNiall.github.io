@@ -1,2 +1,2 @@
-# niallclancy_ie_2022
+# niallclancy_ie
 My personal website
